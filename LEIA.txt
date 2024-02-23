@@ -1,0 +1,8 @@
+Gustavo de Lima G 22/2/2023 Github:https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki
+
+Copie e cole o arquivo HIDDongleDLL.dll na pasta onde você instalou o MikroC. 
+Irá aparecer uma janela de diálogo perguntando se você quer substituir o arquivo. 
+Substitua-o;
+
+Na pasta:\mikroC_PRO_PIC_2018_Build.7.2.0\mikroProg Suite installer
+execute o driver mikroProg_Suite_For_PIC_v270_setup.exe para poder gerar os HEX.
